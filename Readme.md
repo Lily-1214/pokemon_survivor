@@ -33,7 +33,9 @@ pokemon_survivor_main.py 파일을 IDLE로 열어 F5를 눌러 실행합니다
 ## 게임 설명
 
 Pokemon Survivor는 가여운 파이리가 아주 흉악한 캐터피와 피죤투들이 몰려오는 것을 막는 게임입니다.
+
 WASD로 파이리를 움직일 수 있으며, 파이리의 모든 공격은 가장 가까운 대상을 향해 발사합니다.
+
 3분이 지나면 게임에서 승리한것으로 간주합니다.
 
 ![image](images/gameplay2.png)
