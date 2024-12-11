@@ -14,7 +14,7 @@ Pokemon Survivor는 Vampire Survivors와 같은 뱀서라이크 게임입니다.
 ```python
 pip install pygame
 ```
-![image](images/.png)
+
 ## 프로그램 시작
 필요한 모듈과 위 파일들을 모두 다운로드 받았다면
 pokemon_survivor_main.py 파일을 IDLE로 열어 F5를 눌러 실행합니다
@@ -53,7 +53,9 @@ json 파일을 삭제해 세이브파일을 삭제할 수 있습니다.
 #### 게임-강화 선택 화면
 파이리의 경험치가 가득 차면 레벨업을 합니다.
 아쉽게도 리자드나 리자몽으로 진화하진 않습니다.
-//리자드 리자몽 이미지
+
+![image](images/no_charizaed_and_charmeleon.png)
+
 랜덤으로 주어지는 3개의 선택지 중 하나를 30초 내로 골라 이번 게임동안 능력을 강화합니다.
 ![image](images/upgrade_select_screen.png)
 
