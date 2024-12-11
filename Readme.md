@@ -63,11 +63,14 @@ json 파일을 삭제해 세이브파일을 삭제할 수 있습니다.
 유저가 마지막으로 누른 키보드 A/D에 따라 파이리가 왼쪽/오른쪽을 바라봅니다.
 //파이리 좌우반전 관련 코드
 불꽃세례(Ember)는 가장 가까운 적의 방향으로 부채꼴 형태의 공격을 합니다.
-![image](images/ember_implementation.png)
+
+<img src="images/ember_implementation.png" alt="image" width="600"/>
 
 화염구(Fireball)는 첫번째로, 두번재로... 가까운 적의 방향으로 화면 가장자리에서 사라지는 투사체를 발사합니다.
 투사체의 개수는 투사체 개수 증가 레벨에 따라 증가합니다.
+
 ![image](images/fireball_implementation.png)
+
 //가장 가까운 적 추적 코드
 
 ### 2.적의 이동과 공격
