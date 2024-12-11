@@ -1,6 +1,6 @@
 # Pokemon Survivor
 Pokemon Survivor는 Vampire Survivors와 같은 뱀서라이크 게임입니다.
-//게임플레이 이미지1
+![image](images/gameplay1.png)
 
 ## 뱀서라이크 게임이란?
 로그라이크 장르의 특징을 가지고 있는 탑뷰 또는 쿼터뷰 시점의 게임으로서
